@@ -1,0 +1,223 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/default-banner.png">
+    <img alt="mu-highly-effective" src="assets/default-banner.png" width="100%">
+  </picture>
+</p>
+
+# 🧭 mu-highly-effective · 职场高效能习惯养成教练
+
+> A 7 Habits practice coach for knowledge workers and managers who already know the theory but can't apply it — it diagnoses your weakest habits with a 21-question assessment, then hands you a verifiable daily check-in plan instead of another summary of the book.
+
+**English** | [中文](README_CN.md) | [🌐 Landing Page](https://muippt.github.io/mu-highly-effective/)
+
+[![WeChat](https://img.shields.io/badge/muippt-07C160?logo=wechat&logoColor=white)](https://mp.weixin.qq.com/s/YLtXENt_7WzO2DgJCFUtPA)
+[![Xiaohongshu](https://img.shields.io/badge/muippt-FF2442?logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/ESxtgUNMdl)
+[![Book](https://img.shields.io/badge/Book-Visual%20Team%20Management-BBDDE5?logo=bookstack&logoColor=white)](https://item.m.jd.com/product/14547345.html)
+[![mu-skillhub](https://img.shields.io/badge/mu--skillhub-9E95B7?logo=refinedgithub&logoColor=white)](https://muippt.github.io/mu-skill-hub/)
+[![License](https://img.shields.io/github/license/muippt/mu-highly-effective)](LICENSE)
+[![Version](https://img.shields.io/github/v/release/muippt/mu-highly-effective)](https://github.com/muippt/mu-highly-effective/releases)
+[![Stars](https://img.shields.io/github/stars/muippt/mu-highly-effective)](https://github.com/muippt/mu-highly-effective/stargazers)
+
+---
+
+### 💡 Usage Examples
+
+🔥 **"My manager keeps piling work on me and I can't finish it."**
+Paste the situation in plain language. You get a three-part answer — diagnosis (Habit 3 + Habit 1), the underlying principle, and 2-3 actions you can take tomorrow morning.
+
+📊 **"Run a full habit diagnosis on me."**
+21 self-scored questions across all seven habits, delivered in batches so it doesn't feel like an exam. Output is a habit portrait with progress bars, a 105-point total, strengths, and flagged weak spots.
+
+📋 **"Give me a 21-day check-in plan."**
+Picks your three lowest-scoring habits and builds a seven-day deep-dive for each, following a recognize → notice → tool → practice → deepen → reflect → summarize rhythm. Every task has a pass/fail completion standard.
+
+✍️ **"Help me write a personal mission statement."**
+A five-step guided sequence: role inventory → funeral visualization → values distillation → first draft → decision test. The skill asks and reflects, it never writes the statement for you.
+
+💰 **"My relationship with my boss feels tense lately."**
+Emotional Bank Account audit — lists your recent deposits and withdrawals against the six deposit types, rates the balance from healthy to overdrawn, and proposes one or two concrete deposits for next week.
+
+📅 **"I'm always busy but nothing important gets done."**
+Time Matrix cleanup — brain-dump everything, tag all four quadrants, compute the ratios, then schedule specific time blocks for Quadrant II and decide what to decline, delegate, or simplify in Quadrant III.
+
+🤝 **"I just became a team lead and I'm lost."**
+Combined-scenario routing. For team problems the skill runs Habits 4-5-6 as the main thread — repair trust before discussing collaboration.
+
+🔄 **"I'm burned out and have no motivation."**
+Habit 7 renewal planning across all four dimensions (physical, spiritual, mental, social-emotional), plus a P/PC balance check on whether you've been killing the goose for the golden eggs.
+
+---
+
+### ✨ Core Highlights
+
+#### 🚫 Not a Concept Reciter
+
+The hard rule is written into the skill itself: no long theory recaps, no book quotations as filler, no motivational fluff. Every reply must anchor to your specific situation and end with one concrete thing you can do tomorrow. The role model is a sparring coach, not a lecturer.
+
+#### 📏 Every Check-in Task Is Verifiable
+
+Most habit plans fail because "be more proactive today" isn't checkable. Here each daily task carries an explicit completion standard — "log at least 3 language substitutions", "produce a list tagged with all four quadrants", "record the conversation and the other person's reaction". Done or not done is unambiguous, and each task is capped at 15-30 minutes.
+
+#### 🎯 Diagnosis Covers All Seven, No Cherry-Picking
+
+The assessment is 21 questions, exactly 3 per habit, 15 points each. You get a full portrait rather than a spotlight on whichever habit you already suspected. Scores map to five tiers from ★☆☆☆☆ (urgent) to ★★★★★ (internalized), and weak habits at 6 or below get automatically routed into a check-in plan.
+
+#### 🗺️ 12 Pre-Mapped Workplace Scenarios
+
+A scenario library covering overload, credit-stealing colleagues, career confusion, upward communication breakdown, constant interruptions, siloed teams, burnout, conflict avoidance, anxiety and rumination, feeling unrecognized, first-time management, and career transition. Each maps to specific habits with diagnosis, principle, and actions already worked out.
+
+#### ✋ Mission Statement: Guidance Only, Never Ghostwriting
+
+An explicit constraint prevents the skill from drafting your mission statement. It can ask questions, reflect patterns back, and give feedback like "this phrasing is strong" or "this could be more specific" — but the words stay yours. There is no standard answer to respect.
+
+#### 📈 Growth Continuum Awareness
+
+Before advising, the skill locates you on the dependence → independence → interdependence continuum. Someone stuck in dependence gets Habits 1-3 and self-management. Someone strong but siloed in independence gets pushed toward leverage through others. Someone already interdependent gets Habit 7 and helping others grow.
+
+#### 🧩 Combined-Scenario Routing
+
+Six pre-defined composite paths handle requests that span multiple flows — workplace problem plus check-in, diagnosis flowing into mission statement, emotional bank account feeding win-win strategy, and so on. You don't have to know which flow to ask for.
+
+#### 🛟 Graceful Degradation
+
+If any reference file is missing, the skill falls back in a defined order: the built-in seven-habits quick reference table, a simplified 1-10 self-rating in place of the full assessment, an on-the-fly minimal check-in plan, and first-principles analysis from the habit framework. It degrades, it doesn't break.
+
+#### 🎙️ Coach-Grade Conversational Discipline
+
+Language rules are specified: say "you" not "we", ask more than you tell, hand the decision back with "what do you think?". Check-in follow-ups have three calibrated responses — specific praise for completion, acceptance plus curiosity for partial, non-judgment plus support for a miss, and a gentle offer to lighten the plan after repeated misses.
+
+---
+
+### 📌 Comparison
+
+| Dimension | Reading the Book | Generic AI Chat | Habit Tracker Apps | 🧭 mu-highly-effective |
+|---|---|---|---|---|
+| Habit assessment | ❌ None | ⚠️ Ad-hoc, inconsistent | ⚠️ Generic goal setup | ✅ 21 questions, 3 per habit, 5-tier scoring |
+| Situation-specific advice | ❌ Reader must translate | ⚠️ Often generic restatement | ❌ Not applicable | ✅ 12 mapped scenarios + framework fallback |
+| Output structure | ❌ Prose chapters | ⚠️ Varies every time | ⚠️ Checkbox lists | ✅ Fixed diagnose → principle → action format |
+| Check-in plans | ❌ None | ⚠️ Vague daily prompts | ✅ Reminders only | ✅ 7/21/49-day plans with pass-fail standards |
+| Plan personalization | ❌ One-size-fits-all | ⚠️ Depends on prompting | ⚠️ Manual configuration | ✅ 21-day plan auto-targets your 3 weakest habits |
+| Mission statement | ⚠️ Explained, not guided | ❌ Tends to ghostwrite | ❌ Not covered | ✅ 5-step guided, ghostwriting explicitly banned |
+| Relationship diagnostics | ⚠️ Concept only | ⚠️ Surface-level | ❌ Not covered | ✅ Emotional Bank Account audit, 6 deposit types |
+| Time management | ⚠️ Matrix explained | ⚠️ Generic tips | ⚠️ Time logging | ✅ Quadrant tagging + ratios + Q2 scheduling |
+| Anti-fluff enforcement | — | ❌ Prone to motivational filler | — | ✅ IRON LAW bans recaps and platitudes |
+| Boundary honesty | ❌ N/A | ⚠️ May overreach into therapy | ❌ N/A | ✅ Explicitly refers out serious mental health issues |
+| Works offline / self-contained | ✅ Yes | ❌ Needs service | ❌ Needs account | ✅ Pure Markdown, no dependencies |
+
+---
+
+### 🚀 Workflows
+
+| Workflow | Scenario | Trigger |
+|---|---|---|
+| 习惯诊断流程 (Habit Diagnosis) | Assess strength across all seven habits and produce a habit portrait | "run a diagnosis", "assess my habits", "which habit am I weak in" |
+| 职场疑惑解答流程 (Workplace Q&A) | Decode a specific work problem through the seven habits framework | Any pasted workplace situation, conflict, or confusion |
+| 打卡计划生成流程 (Check-in Plan Generation) | Build a customized daily practice plan | "check-in", "check-in plan", "21 days", "49 days", "7-day plan" |
+| 使命宣言引导流程 (Mission Statement Guidance) | Guide you through writing your own personal mission statement | "mission statement", "what do I really want", "life direction" |
+| 情感账户盘点流程 (Emotional Bank Account Audit) | Analyze deposits and withdrawals in key relationships | "relationship is tense", "emotional bank account", "trust issue" |
+| 时间矩阵整理流程 (Time Matrix Organization) | Sort tasks into four quadrants and build a Quadrant II weekly plan | "no time", "always interrupted", "time matrix", "first things first" |
+
+**Interaction Modes**
+
+| Mode | Trigger | Behavior |
+|---|---|---|
+| 🚀 Quick Mode | You paste a workplace situation, problem, or question directly | Reads the scenario library and core knowledge base, identifies the 1-2 governing habits, replies in the fixed diagnose → principle → action format with tomorrow-level granularity |
+| 💬 Guided Mode | You ask for a diagnosis, mission statement, check-in plan, bank account audit, or time matrix | Enters the matching multi-step sub-flow above, each with its own defined completion condition |
+| 📋 Check-in Mode | You mention check-ins, 7 days, 21 days, or 49 days | Confirms which plan length, requires a diagnosis (or three self-picked habits) for the 21-day version, then outputs the full plan table plus a logging template |
+
+---
+
+### ⚙️ Technical Specs
+
+| Item | Description |
+|---|---|
+| Skill name | `mu-highly-effective` |
+| Version | 1.2.0 |
+| Format | Markdown-only skill (`SKILL.md` + `references/`) |
+| Runtime dependencies | None — no scripts, no network calls, no API keys, no external services |
+| Reference files | 4 (`seven-habits-core.md`, `habit-diagnosis.md`, `checkin-plans.md`, `workplace-scenarios.md`) |
+| Knowledge base | Full seven-habits model: influence/concern circles, 90/10 rule, life centers, roles and goals, four-quadrant matrix, stewardship delegation, abundance mentality, 6 emotional bank account deposits, 5 win-win agreement elements, 4 levels of empathic listening, 4 autobiographical responses, Ethos-Pathos-Logos, third alternative, 4 renewal dimensions, P/PC balance |
+| Assessment | 21 questions, 3 per habit, 1-5 scale, 15 points per habit, 105 total, 5 grade tiers |
+| Check-in plans | 3 lengths — 7-day starter, 21-day targeted (3 weakest habits × 7 days), 49-day full (7 weeks × 7 days) |
+| Scenario library | 12 mapped workplace scenarios, each with diagnosis, principle, and actions |
+| Output formats | Habit portrait with progress bars, check-in tables with verification standards, bank account ledger, time matrix breakdown |
+| Behavioral constraints | 10 IRON LAW rules enforcing anti-recap, verifiability, no ghostwriting, and honest boundaries |
+| Degradation | 4-tier fallback chain if reference files are unavailable |
+| Language | Chinese content, English-language metadata |
+| License | MIT |
+
+---
+
+### 🛠️ Quick Start
+
+**1. Install**
+
+```bash
+git clone https://github.com/muippt/mu-highly-effective.git ~/.claude/skills/mu-highly-effective
+```
+
+Or download the latest release and unzip it into your agent's skills directory.
+
+**2. Verify the layout**
+
+```
+mu-highly-effective/
+├── SKILL.md
+└── references/
+    ├── seven-habits-core.md
+    ├── habit-diagnosis.md
+    ├── checkin-plans.md
+    └── workplace-scenarios.md
+```
+
+**3. Just talk to it**
+
+```
+"帮我做个七个习惯诊断"
+"领导安排的活太多做不完，怎么办？"
+"给我一个21天打卡计划"
+```
+
+No configuration, no API keys, no setup step. Paste a real situation and it will route itself to the right workflow.
+
+---
+
+### 🔒 Security & Privacy
+
+- **Zero network access.** The skill is pure Markdown. It contains no scripts, no HTTP calls, and no telemetry.
+- **Zero credentials.** No API keys, tokens, appkeys, or authentication of any kind is required or stored.
+- **No data leaves your machine.** Diagnosis scores, mission statement drafts, relationship audits, and check-in logs exist only within your own agent session and wherever you choose to save them.
+- **No third-party services.** No account registration, no cloud sync, no external platform dependency.
+- **Sensitive content by nature.** Mission statements and emotional bank account audits touch on personal values and real relationships. Treat your saved outputs as private notes.
+- **Honest scope boundary.** The skill is instructed to state its limits and recommend professional help when a question exceeds what a habits framework can address — it does not attempt to act as a therapist.
+- **Auditable.** Every behavior is defined in plain-text Markdown you can read end to end in a few minutes.
+
+---
+
+### ⭐ Star History
+
+If you find this skill helpful, please consider giving it a star! ⭐
+
+[![Star History Chart](assets/star-history.png)](https://www.star-history.com/?repos=muippt%2Fmu-highly-effective&type=date)
+
+> Reading the book gives you the seven habits. This skill tells you which one you're failing at, and what to do about it tomorrow morning.
+
+---
+
+### 👤 About the Author
+
+🎓 Signatory Author of Tsinghua University Press / 2026 Dangdang Influential Author / AI & Large Model Business HR Specialist at a Leading Tech Company / National Level-1 HR Manager / Level-2 Psychological Counselor / Self-taught Designer
+
+📚 Author of [*Visual Team Management*](https://item.m.jd.com/product/14547345.html). Clients include ByteDance, Tencent, Baidu, China Mobile, SMG, BOE…
+
+💡 [WeChat Official Account](https://mp.weixin.qq.com/s/YLtXENt_7WzO2DgJCFUtPA) / [Xiaohongshu](https://xhslink.com/m/ESxtgUNMdl): muippt
+
+### 📄 License & Acknowledgments
+
+[MIT](LICENSE) © 2024-2026 muippt
+
+Based on principles from "The 7 Habits of Highly Effective People" by Stephen R. Covey. All book-related copyrights belong to FranklinCovey Co. This project is an independent, community-driven skill. Not affiliated with or endorsed by FranklinCovey Co.
+
+> Note: Much of this project was co-created with AI assistance. If you believe your work has been used without proper attribution, please open an issue.
