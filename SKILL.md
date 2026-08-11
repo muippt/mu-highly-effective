@@ -1,5 +1,6 @@
 ---
 name: mu-highly-effective
+display_name: "职场高效能习惯养成教练"
 version: 1.2.0
 description: "Seven Habits workplace coaching skill. Diagnoses habit gaps, customizes check-in plans, guides mission statement drafting, audits emotional bank accounts, and organizes time matrices. Part of the Mu Book Series."
 tags: seven-habits, productivity, coaching, habit-tracker, personal-development, mission-statement, time-management, interpersonal-skills
