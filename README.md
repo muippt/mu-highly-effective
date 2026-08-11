@@ -134,35 +134,37 @@ Completed a task? You get specific, genuine praise — not a generic "great job.
 
 ### 🛠️ Quick Start
 
-**1. Install**
+**1. Install** — clone into your skills directory
 
 ```bash
 git clone https://github.com/muippt/mu-highly-effective.git ~/.claude/skills/mu-highly-effective
 ```
 
-Or download the latest release and unzip it into your agent's skills directory.
+> Using a different agent? Just drop the folder wherever your tool loads skills from. Project-level works too: `.claude/skills/mu-highly-effective`.
 
-**2. Verify the layout**
-
-```
-mu-highly-effective/
-├── SKILL.md
-└── references/
-    ├── seven-habits-core.md
-    ├── habit-diagnosis.md
-    ├── checkin-plans.md
-    └── workplace-scenarios.md
-```
-
-**3. Just talk to it**
+**2. Verify** — restart your agent and confirm the skill is picked up
 
 ```
-"帮我做个七个习惯诊断"
-"领导安排的活太多做不完，怎么办？"
-"给我一个21天打卡计划"
+List my available skills
 ```
 
-No configuration, no API keys, no setup step. Paste a real situation and it will route itself to the right workflow.
+**3. Run** — paste a workplace situation and let it work
+
+```
+Paste any workplace situation, conflict, or confusion → auto-identifies governing habits, replies in diagnose → principle → action format
+```
+
+Or invoke a specific workflow:
+
+```
+Run a full habit diagnosis on me
+```
+```
+My manager keeps piling work on me and I can't finish it. What should I do?
+```
+```
+Give me a 21-day check-in plan
+```
 
 ---
 

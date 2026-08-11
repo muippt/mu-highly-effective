@@ -134,35 +134,37 @@
 
 ### 🛠️ 快速开始
 
-**1. 安装**
+**1. 安装** —— 克隆到你的 skills 目录
 
 ```bash
 git clone https://github.com/muippt/mu-highly-effective.git ~/.claude/skills/mu-highly-effective
 ```
 
-或者下载 Release 压缩包，解压到你的 Agent skills 目录。
+> 用的是别的 Agent？把文件夹放到你的工具加载 skill 的位置即可。项目级也可以：`.claude/skills/mu-highly-effective`。
 
-**2. 确认目录结构**
-
-```
-mu-highly-effective/
-├── SKILL.md
-└── references/
-    ├── seven-habits-core.md
-    ├── habit-diagnosis.md
-    ├── checkin-plans.md
-    └── workplace-scenarios.md
-```
-
-**3. 直接说话就行**
+**2. 验证** —— 重启 Agent，确认 skill 已被识别
 
 ```
-"帮我做个七个习惯诊断"
-"领导安排的活太多做不完，怎么办？"
-"给我一个21天打卡计划"
+列出我可用的 skills
 ```
 
-无需配置，无需 API Key，没有初始化步骤。贴一个真实处境进去，它会自己匹配合适的工作流。
+**3. 使用** —— 贴出职场场景就能跑
+
+```
+贴任意职场场景、冲突或困惑 → 自动识别主导习惯，按"诊断→原则→行动"格式回复
+```
+
+或者直接指定工作流：
+
+```
+帮我做个完整的习惯诊断
+```
+```
+领导安排的活太多做不完，怎么办？
+```
+```
+给我一个21天打卡计划
+```
 
 ---
 
