@@ -43,7 +43,7 @@ Emotional Bank Account audit — lists your recent deposits and withdrawals agai
 Time Matrix cleanup — brain-dump everything, tag all four quadrants, compute the ratios, then schedule specific time blocks for Quadrant II and decide what to decline, delegate, or simplify in Quadrant III.
 
 🤝 **"I just became a team lead and I'm lost."**
-Combined-scenario routing. For team problems the skill runs Habits 4-5-6 as the main thread — repair trust before discussing collaboration.
+For team problems the skill focuses on Habits 4-5-6 — repair trust before discussing collaboration. No need to figure out which workflow to pick; just describe the situation.
 
 🔄 **"I'm burned out and have no motivation."**
 Habit 7 renewal planning across all four dimensions (physical, spiritual, mental, social-emotional), plus a P/PC balance check on whether you've been killing the goose for the golden eggs.
@@ -72,21 +72,9 @@ A scenario library covering overload, credit-stealing colleagues, career confusi
 
 An explicit constraint prevents the skill from drafting your mission statement. It can ask questions, reflect patterns back, and give feedback like "this phrasing is strong" or "this could be more specific" — but the words stay yours. There is no standard answer to respect.
 
-#### 📈 Growth Continuum Awareness
+#### 🎙️ Check-in Follow-up That Supports, Never Pressures
 
-Before advising, the skill locates you on the dependence → independence → interdependence continuum. Someone stuck in dependence gets Habits 1-3 and self-management. Someone strong but siloed in independence gets pushed toward leverage through others. Someone already interdependent gets Habit 7 and helping others grow.
-
-#### 🧩 Combined-Scenario Routing
-
-Six pre-defined composite paths handle requests that span multiple flows — workplace problem plus check-in, diagnosis flowing into mission statement, emotional bank account feeding win-win strategy, and so on. You don't have to know which flow to ask for.
-
-#### 🛟 Graceful Degradation
-
-If any reference file is missing, the skill falls back in a defined order: the built-in seven-habits quick reference table, a simplified 1-10 self-rating in place of the full assessment, an on-the-fly minimal check-in plan, and first-principles analysis from the habit framework. It degrades, it doesn't break.
-
-#### 🎙️ Coach-Grade Conversational Discipline
-
-Language rules are specified: say "you" not "we", ask more than you tell, hand the decision back with "what do you think?". Check-in follow-ups have three calibrated responses — specific praise for completion, acceptance plus curiosity for partial, non-judgment plus support for a miss, and a gentle offer to lighten the plan after repeated misses.
+Completed a task? You get specific, genuine praise — not a generic "great job." Missed a day? No judgment, just curiosity about what got in the way. Hitting a wall repeatedly? The skill proactively suggests lightening the load instead of pushing harder. The coaching tone stays warm and practical, never guilt-tripping.
 
 ---
 
@@ -102,8 +90,6 @@ Language rules are specified: say "you" not "we", ask more than you tell, hand t
 | Mission statement | ⚠️ Explained, not guided | ❌ Tends to ghostwrite | ❌ Not covered | ✅ 5-step guided, ghostwriting explicitly banned |
 | Relationship diagnostics | ⚠️ Concept only | ⚠️ Surface-level | ❌ Not covered | ✅ Emotional Bank Account audit, 6 deposit types |
 | Time management | ⚠️ Matrix explained | ⚠️ Generic tips | ⚠️ Time logging | ✅ Quadrant tagging + ratios + Q2 scheduling |
-| Anti-fluff enforcement | — | ❌ Prone to motivational filler | — | ✅ IRON LAW bans recaps and platitudes |
-| Boundary honesty | ❌ N/A | ⚠️ May overreach into therapy | ❌ N/A | ✅ Explicitly refers out serious mental health issues |
 | Works offline / self-contained | ✅ Yes | ❌ Needs service | ❌ Needs account | ✅ Pure Markdown, no dependencies |
 
 ---
@@ -138,13 +124,11 @@ Language rules are specified: say "you" not "we", ask more than you tell, hand t
 | Format | Markdown-only skill (`SKILL.md` + `references/`) |
 | Runtime dependencies | None — no scripts, no network calls, no API keys, no external services |
 | Reference files | 4 (`seven-habits-core.md`, `habit-diagnosis.md`, `checkin-plans.md`, `workplace-scenarios.md`) |
-| Knowledge base | Full seven-habits model: influence/concern circles, 90/10 rule, life centers, roles and goals, four-quadrant matrix, stewardship delegation, abundance mentality, 6 emotional bank account deposits, 5 win-win agreement elements, 4 levels of empathic listening, 4 autobiographical responses, Ethos-Pathos-Logos, third alternative, 4 renewal dimensions, P/PC balance |
+| Knowledge base | Complete 7-habits model — influence circles, four-quadrant time matrix, emotional bank account, empathic listening, win-win agreements, four renewal dimensions, P/PC balance, and more |
 | Assessment | 21 questions, 3 per habit, 1-5 scale, 15 points per habit, 105 total, 5 grade tiers |
 | Check-in plans | 3 lengths — 7-day starter, 21-day targeted (3 weakest habits × 7 days), 49-day full (7 weeks × 7 days) |
 | Scenario library | 12 mapped workplace scenarios, each with diagnosis, principle, and actions |
 | Output formats | Habit portrait with progress bars, check-in tables with verification standards, bank account ledger, time matrix breakdown |
-| Behavioral constraints | 10 IRON LAW rules enforcing anti-recap, verifiability, no ghostwriting, and honest boundaries |
-| Degradation | 4-tier fallback chain if reference files are unavailable |
 | Language | Chinese content, English-language metadata |
 | License | MIT |
 
@@ -186,13 +170,11 @@ No configuration, no API keys, no setup step. Paste a real situation and it will
 
 ### 🔒 Security & Privacy
 
-- **Zero network access.** The skill is pure Markdown. It contains no scripts, no HTTP calls, and no telemetry.
-- **Zero credentials.** No API keys, tokens, appkeys, or authentication of any kind is required or stored.
-- **No data leaves your machine.** Diagnosis scores, mission statement drafts, relationship audits, and check-in logs exist only within your own agent session and wherever you choose to save them.
-- **No third-party services.** No account registration, no cloud sync, no external platform dependency.
-- **Sensitive content by nature.** Mission statements and emotional bank account audits touch on personal values and real relationships. Treat your saved outputs as private notes.
-- **Honest scope boundary.** The skill is instructed to state its limits and recommend professional help when a question exceeds what a habits framework can address — it does not attempt to act as a therapist.
-- **Auditable.** Every behavior is defined in plain-text Markdown you can read end to end in a few minutes.
+- **Zero network access.** The skill is pure Markdown — no scripts, no HTTP calls, no telemetry. Everything runs inside your own AI agent session.
+- **No data leaves your machine.** Diagnosis scores, mission statement drafts, relationship audits, and check-in logs exist only where you choose to save them.
+- **No account or credentials.** No sign-up, no API keys, no cloud sync, no third-party platform.
+- **Honest scope boundary.** When a question goes beyond what a habits framework can address — e.g. signs of depression or serious mental health concerns — the skill says so and points you to professional help.
+- **Fully auditable.** Every behavior is defined in plain-text Markdown you can read end to end in a few minutes.
 
 ---
 
