@@ -80,17 +80,17 @@ Completed a task? You get specific, genuine praise — not a generic "great job.
 
 ### 📌 Comparison
 
-| Dimension | Reading the Book | Generic AI Chat | Habit Tracker Apps | 🧭 mu-highly-effective |
+| Dimension | 🧭 mu-highly-effective | Reading the Book | Generic AI Chat | Habit Tracker Apps |
 |---|---|---|---|---|
-| Habit assessment | ❌ None | ⚠️ Ad-hoc, inconsistent | ⚠️ Generic goal setup | ✅ 21 questions, 3 per habit, 5-tier scoring |
-| Situation-specific advice | ❌ Reader must translate | ⚠️ Often generic restatement | ❌ Not applicable | ✅ 12 mapped scenarios + framework fallback |
-| Output structure | ❌ Prose chapters | ⚠️ Varies every time | ⚠️ Checkbox lists | ✅ Fixed diagnose → principle → action format |
-| Check-in plans | ❌ None | ⚠️ Vague daily prompts | ✅ Reminders only | ✅ 7/21/49-day plans with pass-fail standards |
-| Plan personalization | ❌ One-size-fits-all | ⚠️ Depends on prompting | ⚠️ Manual configuration | ✅ 21-day plan auto-targets your 3 weakest habits |
-| Mission statement | ⚠️ Explained, not guided | ❌ Tends to ghostwrite | ❌ Not covered | ✅ 5-step guided, ghostwriting explicitly banned |
-| Relationship diagnostics | ⚠️ Concept only | ⚠️ Surface-level | ❌ Not covered | ✅ Emotional Bank Account audit, 6 deposit types |
-| Time management | ⚠️ Matrix explained | ⚠️ Generic tips | ⚠️ Time logging | ✅ Quadrant tagging + ratios + Q2 scheduling |
-| Works offline / self-contained | ✅ Yes | ❌ Needs service | ❌ Needs account | ✅ Pure Markdown, no dependencies |
+| Habit assessment | ✅ 21 questions, 3 per habit, 5-tier scoring | ❌ None | ⚠️ Ad-hoc, inconsistent | ⚠️ Generic goal setup |
+| Situation-specific advice | ✅ 12 mapped scenarios + framework fallback | ❌ Reader must translate | ⚠️ Often generic restatement | ❌ Not applicable |
+| Output structure | ✅ Fixed diagnose → principle → action format | ❌ Prose chapters | ⚠️ Varies every time | ⚠️ Checkbox lists |
+| Check-in plans | ✅ 7/21/49-day plans with pass-fail standards | ❌ None | ⚠️ Vague daily prompts | ✅ Reminders only |
+| Plan personalization | ✅ 21-day plan auto-targets your 3 weakest habits | ❌ One-size-fits-all | ⚠️ Depends on prompting | ⚠️ Manual configuration |
+| Mission statement | ✅ 5-step guided, ghostwriting explicitly banned | ⚠️ Explained, not guided | ❌ Tends to ghostwrite | ❌ Not covered |
+| Relationship diagnostics | ✅ Emotional Bank Account audit, 6 deposit types | ⚠️ Concept only | ⚠️ Surface-level | ❌ Not covered |
+| Time management | ✅ Quadrant tagging + ratios + Q2 scheduling | ⚠️ Matrix explained | ⚠️ Generic tips | ⚠️ Time logging |
+| Works offline / self-contained | ✅ Pure Markdown, no dependencies | ✅ Yes | ❌ Needs service | ❌ Needs account |
 
 ---
 
@@ -119,17 +119,15 @@ Completed a task? You get specific, genuine praise — not a generic "great job.
 
 | Item | Description |
 |---|---|
-| Skill name | `mu-highly-effective` |
-| Version | 1.2.0 |
-| Format | Markdown-only skill (`SKILL.md` + `references/`) |
-| Runtime dependencies | None — no scripts, no network calls, no API keys, no external services |
-| Reference files | 4 (`seven-habits-core.md`, `habit-diagnosis.md`, `checkin-plans.md`, `workplace-scenarios.md`) |
-| Knowledge base | Complete 7-habits model — influence circles, four-quadrant time matrix, emotional bank account, empathic listening, win-win agreements, four renewal dimensions, P/PC balance, and more |
-| Assessment | 21 questions, 3 per habit, 1-5 scale, 15 points per habit, 105 total, 5 grade tiers |
-| Check-in plans | 3 lengths — 7-day starter, 21-day targeted (3 weakest habits × 7 days), 49-day full (7 weeks × 7 days) |
-| Scenario library | 12 mapped workplace scenarios, each with diagnosis, principle, and actions |
-| Output formats | Habit portrait with progress bars, check-in tables with verification standards, bank account ledger, time matrix breakdown |
+| Type | Markdown-only AI Skill — no code, no runtime, no build steps |
+| Dependencies | None — zero npm/pip packages, zero API keys, zero external services |
+| Compatible environments | Claude Code, Claude Desktop, and any agent supporting the SKILL.md convention |
+| Package size | ~56 KB (`SKILL.md` + 4 references) |
+| File structure | 1 `SKILL.md` + 4 references (core knowledge base, diagnosis questionnaire, check-in templates, scenario library) |
+| Input support | Plain text — workplace situations, questions, self-assessment scores |
+| Output format | Structured Markdown (tables, progress bars, checklists) |
 | Language | Chinese content, English-language metadata |
+| Version | 1.2.0 |
 | License | MIT |
 
 ---
