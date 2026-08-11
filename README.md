@@ -98,12 +98,12 @@ Completed a task? You get specific, genuine praise — not a generic "great job.
 
 | Workflow | Scenario | Trigger |
 |---|---|---|
-| 习惯诊断流程 (Habit Diagnosis) | Assess strength across all seven habits and produce a habit portrait | "run a diagnosis", "assess my habits", "which habit am I weak in" |
-| 职场疑惑解答流程 (Workplace Q&A) | Decode a specific work problem through the seven habits framework | Any pasted workplace situation, conflict, or confusion |
-| 打卡计划生成流程 (Check-in Plan Generation) | Build a customized daily practice plan | "check-in", "check-in plan", "21 days", "49 days", "7-day plan" |
-| 使命宣言引导流程 (Mission Statement Guidance) | Guide you through writing your own personal mission statement | "mission statement", "what do I really want", "life direction" |
-| 情感账户盘点流程 (Emotional Bank Account Audit) | Analyze deposits and withdrawals in key relationships | "relationship is tense", "emotional bank account", "trust issue" |
-| 时间矩阵整理流程 (Time Matrix Organization) | Sort tasks into four quadrants and build a Quadrant II weekly plan | "no time", "always interrupted", "time matrix", "first things first" |
+| Habit Diagnosis | Assess strength across all seven habits and produce a habit portrait | "run a diagnosis", "assess my habits", "which habit am I weak in" |
+| Workplace Q&A | Decode a specific work problem through the seven habits framework | Any pasted workplace situation, conflict, or confusion |
+| Check-in Plan Generation | Build a customized daily practice plan | "check-in", "check-in plan", "21 days", "49 days", "7-day plan" |
+| Mission Statement Guidance | Guide you through writing your own personal mission statement | "mission statement", "what do I really want", "life direction" |
+| Emotional Bank Account Audit | Analyze deposits and withdrawals in key relationships | "relationship is tense", "emotional bank account", "trust issue" |
+| Time Matrix Organization | Sort tasks into four quadrants and build a Quadrant II weekly plan | "no time", "always interrupted", "time matrix", "first things first" |
 
 **Interaction Modes**
 
